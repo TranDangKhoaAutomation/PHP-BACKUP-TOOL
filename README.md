@@ -41,7 +41,7 @@ PHP-BACKUP-TOOL/
 
 ### 1. Download Source Code
 ```bash
-git clone https://github.com/CodeWithKhoa/PHP-BACKUP-TOOL.git
+git clone https://github.com/TranDangKhoaTechnology/PHP-BACKUP-TOOL.git
 ```
 
 ### 2. Configure Database
@@ -105,8 +105,8 @@ This will run the backup at the beginning of every hour (e.g., 1:00, 2:00, 3:00.
 
 This project was created and is maintained by **Tran Dang Khoa**.
 
--   **GitHub:** [@CodeWithKhoa](https://github.com/codewithkhoa)
--   **YouTube:** [@codewithkhoa](https://youtube.com/@codewithkhoa)
+-   **GitHub:** [@TranDangKhoaTechnology](https://github.com/TranDangKhoaTechnology)
+-   **YouTube:** [@trandangkhoatechnology](https://youtube.com/@trandangkhoatechnology)
 -   **Email:** [trandangkhoa31122006@gmail.com](mailto:trandangkhoa31122006@gmail.com)
 
 ---
